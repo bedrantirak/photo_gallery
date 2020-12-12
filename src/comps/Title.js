@@ -4,8 +4,8 @@ const Title = () => {
   return (
     <div className="title">
       <h1>BedoGram</h1>
-      <h2>Add Pictures</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <h2>Add Pictures / Fotoğraf Ekle</h2>
+      <p>Add your favorite picture for make here supreme gallery. / Burayı yüceltmek için favori fotoğrafınızı ekleyin. </p>
     </div>
   )
 }
